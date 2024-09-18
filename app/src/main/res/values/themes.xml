@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UTS" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:windowBackground">#F38F4B</item>
+
+    </style>
+
+    <style name="Theme.UTS" parent="Base.Theme.UTS" />
+
+    <style name="CustomRadioButton" parent="Theme.MaterialComponents.Light">
+        <item name="colorControlActivated">#FF7300</item>
+    </style>
+
+</resources>
