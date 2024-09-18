@@ -827,7 +827,7 @@
                             android:layout_marginRight="10dp"
                             android:layout_marginBottom="10dp"
                             android:layout_weight="1"
-                            android:background="@drawable/getfare"
+                            android:background="@drawable/ticket_icon"
                             android:padding="@dimen/cardview_default_radius"
                             android:text="NEXT TRAINS"
                             android:textAlignment="center"
